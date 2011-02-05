@@ -1,0 +1,49 @@
+body {
+  font-family: 'Ubuntu', arial, serif;
+  background-color: #1A1A1A;
+  background-image: url('bg.png');
+  color: #ccc;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+div.vcard {
+  width: 350px;
+  margin: 300px auto 0px auto;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 250%;
+  letter-spacing: 2px;
+  margin: 0 0 20px 0;
+  text-shadow: rgba(0,0,0, .5) 1px 1px 0px, rgba(255,255,255, .2) -1px -1px 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #ccc;
+}
+
+img.photo {
+  float: left;
+  margin: 5px 10px 5px 5px;
+}
+
+ul#links {
+  width: 350px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+ul#links li {
+  width: 52px;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+
+ul#links li img {
+  margin: 0 auto;
+  display: block;
+}
